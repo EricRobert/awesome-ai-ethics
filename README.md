@@ -17,3 +17,7 @@
 - [Privacy-Preserving Deep Learning](https://www.cs.cornell.edu/~shmat/shmat_ccs15.pdf)
 
 - [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
+
+## Blogs
+
+- [AI at Google: our principles](https://blog.google/topics/ai/ai-principles/)
