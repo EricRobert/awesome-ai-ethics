@@ -18,6 +18,8 @@
 
 - [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
 
+- [Privacy-preserving Machine Learning through Data Obfuscation](https://arxiv.org/abs/1807.01860)
+
 ## Blogs
 
 - [AI at Google: our principles](https://blog.google/topics/ai/ai-principles/)
