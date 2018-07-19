@@ -20,6 +20,8 @@
 
 - [Privacy-preserving Machine Learning through Data Obfuscation](https://arxiv.org/abs/1807.01860)
 
+- [Efficient Deep Learning on Multi-Source Private Data](https://arxiv.org/abs/1807.06689)
+
 ## Blogs
 
 - [AI at Google: our principles](https://blog.google/topics/ai/ai-principles/)
