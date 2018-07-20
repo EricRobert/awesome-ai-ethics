@@ -20,6 +20,8 @@
 
 - [Privacy-preserving Machine Learning through Data Obfuscation](https://arxiv.org/abs/1807.01860)
 
+- [The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets](https://arxiv.org/abs/1802.08232)
+
 - [Efficient Deep Learning on Multi-Source Private Data](https://arxiv.org/abs/1807.06689)
 
 ## Blogs
