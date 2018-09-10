@@ -22,7 +22,7 @@
 
 - [Adversarial Patch](https://arxiv.org/abs/1712.09665)
 
-- [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083)
+- [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
 
 ## Papers
 
