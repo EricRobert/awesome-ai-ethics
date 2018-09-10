@@ -2,6 +2,28 @@
 
 > References for ethics & security issues in AI
 
+## Papers - Medicine
+
+- [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/abs/1804.05296)
+
+## Papers - Medicine Applications
+
+- [Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices](https://www.nature.com/articles/s41746-018-0040-6)
+
+- [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/abs/1711.05225)
+
+- [Detecting hip fractures with radiologist-level performance using deep neural networks](https://arxiv.org/abs/1711.06504)
+
+- [Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer](https://jamanetwork.com/journals/jama/fullarticle/2665774)
+
+- [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+
+## Papers - Attacks
+
+- [Adversarial Patch](https://arxiv.org/abs/1712.09665)
+
+- [Towards deep learning models resistant to adversarial attacks](https://arxiv.org/abs/1706.06083)
+
 ## Papers
 
 - [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464)
